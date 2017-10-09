@@ -12,6 +12,7 @@ gem 'taps'
 gem 'frontend-generators'
 gem 'simple_form'
 gem 'country_select'
+gem 'bcrypt',         '3.1.11'
 
 
 #Postgresql Database
